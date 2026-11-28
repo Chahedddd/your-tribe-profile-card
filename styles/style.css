@@ -18,7 +18,7 @@ body {
 
 h1 {
   text-align: center; /* tekst in het midden */
-  letter-spacing: 0.05em;   /* iets meer ruimte tussen letters */
+  letter-spacing: 0.05em;
 }
 
 h2 {
@@ -32,7 +32,7 @@ h3 {
 }
 
 p {
-  
+
 }
 
 .overmij {
@@ -49,7 +49,6 @@ p {
 .img-me img {
   display: block;
   width: 100%;
-  aspect-ratio: 38 / 45;
   object-fit: cover;
 }
 
